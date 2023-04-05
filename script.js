@@ -11,7 +11,7 @@ for (let i = 0; i < button.length; i++) {
 
         switch (buttonInnerHTML) {
             case "w":
-                 let audio1 = new Audio("kick-bass.mp3");
+                 let audio1 = new Audio("crash.mp3");
                 audio1.play();
                 break;
                 
